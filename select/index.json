@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "アダムとイヴ",
+  "base_artist": "go!go!vanillas",
+  "createdAt": "2025-12-30T07:54:00.745505Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよなら、アダムとイヴ",
+      "artist": "鹿乃",
+      "has_synced": false,
+      "path": "select/01_さよなら、アダムとイヴ_鹿乃.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さよなら、アダムとイヴ",
+      "artist": "Kano",
+      "has_synced": false,
+      "path": "select/02_さよなら、アダムとイヴ_Kano.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さよなら、アダムとイヴ",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/03_さよなら、アダムとイヴ_鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "さよなら、アダムとイヴ",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/04_さよなら、アダムとイヴ_鹿乃.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アダムとイヴ",
+      "artist": "go!go!vanillas",
+      "has_synced": false,
+      "path": "select/pl_01_アダムとイヴ_go!go!vanillas.txt"
+    }
+  ]
+}
